@@ -1,0 +1,10 @@
+# Ignore heavy datasets
+Datasets/
+
+# Ignore heavy video files
+Media/*.mp4
+Media/*.webm
+
+# Ignore python cache files
+__pycache__/
+.ipynb_checkpoints/
